@@ -27,10 +27,6 @@ This project uses the following technologies:
 
 - Currency exchange rates are obtained from the Open Exchange Rates API.
 
-## Trial
-
-- You can check out the site [here](https://atharvadeokar21.github.io/currency-converter/)
-  
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

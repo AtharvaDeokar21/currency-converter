@@ -1,4 +1,4 @@
-const App_ID = "e0831ca3f2a04f6aa9c15a1e47d0b5c2"; 
+const App_ID = "exxxxxxxxxxxxxxxxxxxxxxx"; // Enter your own api key 
 const Base_URL = "https://open.er-api.com/v6/latest";
 
 const dropdowns = document.querySelectorAll(".dropdown select");
